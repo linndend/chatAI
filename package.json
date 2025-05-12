@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2",
+    "readline": "^1.3.0"
+  },
+  "name": "chatai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linndend/chatAI.git"
+  },
+  "keywords": [
+    "npm",
+    "run",
+    "start"
+  ],
+  "author": "0xlind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linndend/chatAI/issues"
+  },
+  "homepage": "https://github.com/linndend/chatAI#readme",
+  "description": ""
+}
