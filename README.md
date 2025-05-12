@@ -33,10 +33,10 @@ Make sure you have the following installed:
 3. Create a .env file in the root directory and add your Novita API key:
    ```bash
    nano .env
-  format :
+   ```
+   FORMAT :
    ```bash
    NOVITA_API_KEY=your api key
-   ```
 4. To start the chatbot, run the following command:
    ```bash
    node index.js
